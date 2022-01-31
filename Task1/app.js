@@ -19,5 +19,5 @@ for (let i = 0; i < allblock.length; i++) {
 }
 
 document.oncontextmenu = function () {
-  return (this.style.background = 'rgb(250,229,229,)');
+  return false;
 };
