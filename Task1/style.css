@@ -1,0 +1,15 @@
+div.container {
+  margin-left: auto;
+  max-width: auto;
+}
+table {
+  background-color: blanchedalmond;
+}
+th {
+  border: 1px solid grey;
+  text-align: center;
+}
+td {
+  border: 1px solid grey;
+  text-align: center;
+}
