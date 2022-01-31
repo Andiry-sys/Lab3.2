@@ -17,3 +17,7 @@ for (let i = 0; i < allblock.length; i++) {
     return (this.style.background = 'rgb(250,229,229,)');
   };
 }
+
+document.oncontextmenu = function () {
+  return (this.style.background = 'rgb(250,229,229,)');
+};
